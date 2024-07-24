@@ -15,7 +15,6 @@ Text-To-Speech:
 https://github.com/coqui-ai/TTS
 
 Speech-To-Text:
-https://github.com/Picovoice/leopard
 
 ### Headers de linguagens:
 Rust:
