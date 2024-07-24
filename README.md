@@ -12,9 +12,11 @@ https://huggingface.co/mistralai/Mistral-Nemo-Base-2407
 
 ### Ferramentas de voz:
 Text-To-Speech:
-https://github.com/coqui-ai/TTS
+- https://github.com/mozilla/TTS
+- https://github.com/coqui-ai/TTS
 
 Speech-To-Text:
+https://github.com/mozilla/DeepSpeech/
 
 ### Headers de linguagens:
 Rust:
