@@ -30,5 +30,3 @@ https://github.com/akx/ggify
 
 Load-balancer stateful feito pro llama.cpp:
 https://github.com/distantmagic/paddler
-
-teste teste
