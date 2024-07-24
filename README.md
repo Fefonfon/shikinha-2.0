@@ -30,3 +30,6 @@ https://github.com/akx/ggify
 
 Load-balancer stateful feito pro llama.cpp:
 https://github.com/distantmagic/paddler
+
+Downloader de TUDO pra TUDO:
+https://github.com/imputnet/cobalt
