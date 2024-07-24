@@ -1,5 +1,15 @@
 # shikinha-2.0
 
+### LLaMA.c++:
+https://github.com/ggerganov/llama.cpp
+
+### Mistral NeMo:
+Blog:
+https://mistral.ai/news/mistral-nemo/
+
+Hugging Face:
+https://huggingface.co/mistralai/Mistral-Nemo-Base-2407
+
 ### Ferramentas de voz:
 Text-To-Speech:
 https://github.com/coqui-ai/TTS
